@@ -1,0 +1,12 @@
+E:\CodeNET\SqlToDb\SqlToDb\bin\Debug\SqlToDb.exe.config
+E:\CodeNET\SqlToDb\SqlToDb\obj\Debug\SqlToDb.Properties.Resources.resources
+E:\CodeNET\SqlToDb\SqlToDb\obj\Debug\SqlToDb.csproj.GenerateResource.Cache
+E:\CodeNET\SqlToDb\SqlToDb\bin\Debug\SqlToDb.exe
+E:\CodeNET\SqlToDb\SqlToDb\bin\Debug\SqlToDb.pdb
+E:\CodeNET\SqlToDb\SqlToDb\obj\Debug\SqlToDb.exe
+E:\CodeNET\SqlToDb\SqlToDb\obj\Debug\SqlToDb.pdb
+E:\CodeNET\SqlToDb\SqlToDb\obj\Debug\SqlToDb.csprojResolveAssemblyReference.cache
+E:\CodeNET\SqlToDb\SqlToDb\obj\Debug\SqlToDb.SqlToDb.resources
+F:\Repos\Net\SqlToDb\SqlToDb\bin\Debug\SqlToDb.exe.config
+F:\Repos\Net\SqlToDb\SqlToDb\obj\Debug\SqlToDb.exe
+F:\Repos\Net\SqlToDb\SqlToDb\obj\Debug\SqlToDb.pdb
